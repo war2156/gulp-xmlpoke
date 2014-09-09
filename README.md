@@ -6,7 +6,7 @@ Gulp port of grunt-xmlpoke
 
 ## Simple replacement
 
-````
+````js
 gulp.src('/path/to/file.xml')
     .pipe(xmlpoke({
       replacements : [{
@@ -19,7 +19,7 @@ gulp.src('/path/to/file.xml')
 
 ### Replacing with a function
 
-````
+````js
 gulp.src('/path/to/file.xml')
     .pipe(xmlpoke({
       replacements : [{
@@ -34,7 +34,7 @@ gulp.src('/path/to/file.xml')
 
 ## Using Namespaces
 
-````
+````js
 gulp.src('/path/to/file.xml')
     .pipe(xmlpoke({
       replacements : [{
