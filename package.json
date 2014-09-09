@@ -1,5 +1,5 @@
 {
-  "name": "gulp-xml-poke",
+  "name": "gulp-xmlpoke",
   "version": "0.0.1",
   "dependencies": {
     "through2": "~0.6.1",
