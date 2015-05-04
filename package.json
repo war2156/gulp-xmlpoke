@@ -1,7 +1,7 @@
 {
   "name": "gulp-xmlpoke",   
   "description": "Updates values in XML files based on XPath queries. This is a gulp port of grunt-xmlpoke",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "homepage": "https://github.com/HeadspringLabs/gulp-xmlpoke",
   "author": {
     "name": "Pedro Reys",
