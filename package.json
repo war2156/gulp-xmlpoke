@@ -2,22 +2,22 @@
   "name": "gulp-xmlpoke",   
   "description": "Updates values in XML files based on XPath queries. This is a gulp port of grunt-xmlpoke",
   "version": "0.2.0",
-  "homepage": "https://github.com/pedroreys/gulp-xmlpoke",
+  "homepage": "https://github.com/HeadspringLabs/gulp-xmlpoke",
   "author": {
     "name": "Pedro Reys",
     "email": "pedro@pedroreys.com"
   },
   "repository": {
     "type": "git",    
-    "url": "git://github.com/pedroreys/gulp-xmlpoke.git"
+    "url": "git://github.com/HeadspringLabs/gulp-xmlpoke.git"
   },
   "bugs": {
-    "url": "https://github.com/pedroreys/gulp-xmlpoke/issues"
+    "url": "https://github.com/HeadspringLabs/gulp-xmlpoke/issues"
   },
   "licenses": [
     {
       "type": "MIT",
-      "url": "https://github.com/pedroreys/gulp-xmlpoke/blob/master/LICENSE"
+      "url": "https://github.com/HeadspringLabs/gulp-xmlpoke/blob/master/LICENSE"
     }],
   "dependencies": {
     "through2": "~0.6.1",
